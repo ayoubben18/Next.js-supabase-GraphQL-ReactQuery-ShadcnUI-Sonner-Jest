@@ -9,4 +9,6 @@ export enum CustomErrorEnums {
   ParsingError = "ParsingError",
   UnsupportedResponseTypeError = "UnsupportedResponseTypeError",
   GitHubProfileError = "GitHubProfileError",
+  InternalServerError = "InternalServerError",
+  UserNotFound = "UserNotFound",
 }
